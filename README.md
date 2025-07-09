@@ -32,12 +32,3 @@ import "github.com/your-org/incident-dashboard-common/models"
 
 ---
 
-## 🤝 Contributing
-- Fork, branch, PR
-- Write tests for new features
-- Follow Go best practices
-
----
-
-## 📄 License
-MIT (or specify) 
